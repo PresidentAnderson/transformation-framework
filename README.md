@@ -31,6 +31,18 @@ An interactive web application exploring the dimensions of human transformation 
 2. **Depth of Consciousness (Y-Axis)** - Inner growth: Awareness → Responsibility → Integrity
 3. **Relational Impact (Z-Axis)** - Connection expansion: Personal → Interpersonal → Collective
 
+### Collapse of Identity Experience
+
+**Enhanced Version Features:**
+- **3D Visualization** - Cube fragments scatter and reform into a glowing sphere
+- **Scroll-Driven Animation** - Transformation tied to user scroll progress
+- **Ambient Sound** - Web Audio API generates evolving soundscape
+  - 60Hz sine wave during collapse (grounding)
+  - 420Hz triangle wave during rebirth (harmonic)
+  - Smooth crossfade between states
+- **Interactive Sound Toggle** - Animated sound wave icon with on/off control
+- **Symbolic Journey** - Visual metaphor of ego dissolution and integration
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -126,6 +138,7 @@ Where:
 1. **Main Page** (`/`) - Complete transformation framework experience
 2. **Cube Demo** (`/cube-demo`) - Basic 3D cube implementation
 3. **Advanced 3D** (`/transformation-3d`) - Full-featured 3D visualization
+4. **Collapse Demo** (`/collapse-demo`) - Identity collapse with 3D animation & ambient sound
 
 ## 🔧 Configuration
 
