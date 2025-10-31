@@ -7,6 +7,7 @@ import { Clock, Layers, Network } from "lucide-react";
 import DimensionGrid from "@/components/DimensionGrid";
 import FormulaSection from "@/components/FormulaSection";
 import ExampleScenario from "@/components/ExampleScenario";
+import CollapseOfIdentity from "@/components/CollapseOfIdentity";
 import { Button } from "@/components/ui/button";
 import type { DimensionData } from "@/components/DimensionCard";
 
@@ -149,6 +150,9 @@ export default function TransformationWebsite() {
 
         {/* Example Scenario Section */}
         <ExampleScenario />
+
+        {/* Collapse of Identity Section */}
+        <CollapseOfIdentity />
 
         {/* Footer Section */}
         <footer className="text-center py-12 mt-16 border-t border-gray-200">
